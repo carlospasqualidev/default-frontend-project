@@ -1,6 +1,6 @@
 # Default-Frontend-Project
 
-Este projeto foi desenvolvido do zero zero por mim e tem como finalidade ser um CRUD completo com todas as configurações iniciais prontas. Possibilitando a qualquer desenvolvedor dar continuidade no projeto, possui sistemas como: autenticação JWT com ContextAPI, capturador de erros no projeto, conta com vários componentes feitos a mão sem uso de bibliotecas externas,validações de formulários completas, máscaras para CNPJ ,CPF, Telefone, uma arquitetura limpa e moderna, eu a utilizo comercialmente nos projetos em que trabalho, Aqui reuni todo meu conhecimento para desenvolvê-lo, utilizei das melhores técnicas e tecnologias da atualidade.
+Este projeto foi desenvolvido do zero por mim e tem como finalidade ser um CRUD completo com todas as configurações iniciais prontas. Possibilitando a qualquer desenvolvedor dar continuidade no projeto, possui sistemas como: autenticação JWT com ContextAPI, capturador de erros no projeto, conta com vários componentes feitos a mão sem uso de bibliotecas externas,validações de formulários completas, máscaras para CNPJ ,CPF, Telefone, uma arquitetura limpa e moderna, eu a utilizo comercialmente nos projetos em que trabalho, Aqui reuni todo meu conhecimento para desenvolvê-lo, utilizei das melhores técnicas e tecnologias da atualidade.
 
 ## 🚀 Clonando o repositório 🚀
 
